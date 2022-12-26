@@ -19,19 +19,28 @@ void PrintMatrix(int[,] matrix)
 
 int[,] ReleaseMatrix(int[,] matrix)
 {
-    for (int j = 0; j < matrix.GetLength(1); j++)
+    int temp = 0;
+    for (int i = 0; i < matrix.GetLength(0); i++)
     {
-        int temp = matrix[0, j];
-        matrix[0, j] = matrix[matrix.GetLength(0) - 1, j];
-        matrix[matrix.GetLength(0) - 1, j] = temp;
+        for (int j = i + 1; j < matrix.GetLength(1); j++)
+        {
+            temp = matrix[i,j];
+            matrix[i,j] = matrix[j,i];
+            matrix[j,i] = temp;
+        }
     }
     return matrix;
 }
 
 Console.Clear();
-Console.Write("Введите размер матрицы: ");
+Console.Write("Введите размер квадратного двумерного массива: ");
 int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
-int[,] matrix = new int[size[0], size[1]];
+while(size[0] != size[1])
+{
+    Console.WriteLine("Введён неправильный размер квадратного двумерного массива");
+    size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
+}
+int[,] matrix = new int[size[0], size[0]];
 Console.WriteLine("Начальный массив:");
 InputMatrix(matrix);
 PrintMatrix(matrix);
