@@ -1,0 +1,15 @@
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\bin\Debug\net6.0\57z.exe
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\bin\Debug\net6.0\57z.deps.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\bin\Debug\net6.0\57z.runtimeconfig.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\bin\Debug\net6.0\57z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\bin\Debug\net6.0\57z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.csproj.AssemblyReference.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.AssemblyInfoInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.AssemblyInfo.cs
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.csproj.CoreCompileInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\refint\57z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\57z.genruntimeconfig.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\8sem\57z\obj\Debug\net6.0\ref\57z.dll
